@@ -1,0 +1,49 @@
+# macOS
+.DS_Store
+
+# Xcode
+DerivedData/
+Build/
+build/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.xcarchive
+
+# Swift Package Manager
+.build/
+Packages/
+
+# Temporary and editor files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.orig
+*.rej
+*~
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.secret
+*.secrets
+*.secret.*
+*.secrets.*
+*.xcconfig.local
+Secrets.xcconfig
+GoogleService-Info.plist
+service-account*.json
+*.p8
+*.p12
+*.mobileprovision
+*.provisionprofile
+*.pem
+*.key

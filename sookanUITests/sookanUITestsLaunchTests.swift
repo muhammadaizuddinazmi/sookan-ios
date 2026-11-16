@@ -1,13 +1,13 @@
 //
-//  bijakpandaiUITestsLaunchTests.swift
-//  bijakpandaiUITests
+//  sookanUITestsLaunchTests.swift
+//  sookanUITests
 //
 //  Created by Muhammad Aizuddin on 07/08/2026.
 //
 
 import XCTest
 
-final class bijakpandaiUITestsLaunchTests: XCTestCase {
+final class sookanUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
